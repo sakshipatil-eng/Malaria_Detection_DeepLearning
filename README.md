@@ -108,19 +108,19 @@ After downloading, place **malaria_model.h5** inside the project folder before r
 
 1. Clone the repository
 
-git clone (https://github.com/sakshipatil-eng/Malaria_Detection_DeepLearning.git)
+ git clone (https://github.com/sakshipatil-eng/Malaria_Detection_DeepLearning.git)
 
 
 2. Install required libraries
 
 
-pip install streamlit tensorflow numpy pillow
+ pip install streamlit tensorflow numpy pillow
 
 
 3. Run the Streamlit application
 
 
-streamlit run app.py
+ streamlit run app.py
 
 
 4. Upload a cell image to test the malaria detection model.
