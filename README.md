@@ -77,10 +77,15 @@ The system predicts:
 
 
 malaria-detection
+
 │
+
 ├── malaria_detection.ipynb
+
 ├── app.py
+
 ├── README.md
+
 └── LICENSE
 
 
