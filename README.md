@@ -2,7 +2,7 @@
 # 🦠 Malaria Detection Using Deep Learning
 
 
-## 📌 Project Overview
+##  Project Overview
 
   This project implements a **Deep Learning based malaria detection system** that classifies microscopic blood cell images as **Parasitized (infected)** or **Uninfected (healthy)**.
 A **Convolutional Neural Network (CNN)** model is trained on malaria cell images and integrated with a simple web interface for easy prediction.
@@ -11,14 +11,14 @@ A **Convolutional Neural Network (CNN)** model is trained on malaria cell images
 
 
 
-## 🎯 Purpose of the Project
+## Purpose of the Project
 
 
   This project was developed for **educational and academic purposes** to study the application of deep learning techniques in medical image classification. It demonstrates how convolutional neural networks can be used to analyze microscopic cell images and how a simple web interface can be built to interact with the trained model.
 
 
 
-## 🛠 Technologies Used 
+##  Technologies Used 
 
 * Python
 * TensorFlow / Keras
@@ -29,7 +29,7 @@ A **Convolutional Neural Network (CNN)** model is trained on malaria cell images
 
 
 
-## 📂 Dataset
+##  Dataset
   
 The model was trained using a **Malaria Cell Images Dataset** containing microscopic blood smear images.
 
@@ -42,7 +42,7 @@ These images are used to train a CNN model for binary classification.
 
  
 
-## 🧠 Model Architecture
+##  Model Architecture
 
 
 The deep learning model consists of:
@@ -57,7 +57,7 @@ The deep learning model consists of:
 
  
 
-## 🌐 Web Application
+##  Web Application
 
 
 A simple web interface built using **Streamlit** allows users to:
@@ -73,7 +73,7 @@ The system predicts:
 
 
 
-## 📁 Project Structure
+##  Project Structure
 
 
 malaria-detection
@@ -86,7 +86,7 @@ malaria-detection
 
 
 
-## 📥 Trained Model
+##  Trained Model
 
 
 The trained model file is large and hosted externally.
@@ -98,7 +98,7 @@ Download the model here:
 After downloading, place **malaria_model.h5** inside the project folder before running the application.
 
 
-## ▶️ How to Run the Project
+##  How to Run the Project
 
 
 1. Clone the repository
@@ -122,7 +122,7 @@ streamlit run app.py
 
 
 
-## ⚠ Disclaimer
+##  Disclaimer
 
 
   This project is created for **educational and demonstration purposes only** and should not be used for real medical diagnosis.
